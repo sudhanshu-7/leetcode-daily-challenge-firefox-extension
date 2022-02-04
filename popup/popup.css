@@ -1,0 +1,20 @@
+#id{
+}
+.btn {
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    text-shadow: 0px 0px 11px #666666;
+    font-family: 'Times New Roman', Times, serif;
+    color: #ffffff;
+    font-size: 16px;
+    background: #3498db;
+    padding: 10px 10px 10px 10px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #3cfa75;
+    text-decoration: none;
+    cursor: pointer;
+  }
